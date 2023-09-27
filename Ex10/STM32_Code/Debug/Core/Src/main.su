@@ -1,0 +1,9 @@
+main.c:59:6:setNumberOnClock	16	static
+main.c:99:6:sigleLed_on	64	static
+main.c:152:6:tsecond	16	static
+main.c:190:6:thour	16	static
+main.c:228:6:tmin	16	static
+main.c:272:5:main	8	static
+main.c:322:6:SystemClock_Config	72	static
+main.c:358:13:MX_GPIO_Init	32	static
+main.c:391:6:Error_Handler	4	static,ignoring_inline_asm
